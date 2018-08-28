@@ -1,0 +1,1 @@
+xcopy "D:\PROJECT DOCUMENTS\IBM-CLOUD-CHEF\projects\chef\chef-repo\sourcefolder\*txt" "D:\PROJECT DOCUMENTS\IBM-CLOUD-CHEF\projects\chef\chef-repo\targetfolder" /d
